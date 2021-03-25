@@ -133,5 +133,15 @@ sys     0m0.823s
 ~~~
 {: .output}
 
+> ## Exercise: Writing the code with a text editor 
+>
+> * Using the editor of your choice (nano for example), write the code above and store it in a file.
+>
+> * Create a folder and move the file into that folder.
+>
+> * Execute the code as show above for less than 100 thousand integers. For larger values a submission script must be used and we will see that on our next episode.
+>
+{: .challenge}
+
 {% include links.md %}
 
