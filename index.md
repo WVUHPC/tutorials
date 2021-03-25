@@ -3,7 +3,8 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+
+Learning to use an HPC cluster for R scripts
 
 <!-- this is an html comment -->
 
@@ -11,7 +12,7 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> All that you need is a SSH client on your computer
 {: .prereq}
 
 {% include links.md %}
